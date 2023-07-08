@@ -1424,7 +1424,7 @@ export const australiaFish = [
     },
     {
         id: "428",
-        type: "common",
+        type: "epic",
         name: {
             en: "manta ray",
             fr: "raie manta",
