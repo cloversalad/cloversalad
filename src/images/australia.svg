@@ -1,0 +1,19 @@
+<svg  class="svg-map-icon svg-map-australia" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.27 171.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: currentColor;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m132.28,77.31H28.18s-2.38,17.11,27.1,30.42"/>
+  <line class="cls-1" x1="117.55" y1="77.31" x2="126.1" y2="64.48"/>
+  <path class="cls-1" d="m58.6,77.31c17.11-20.44,28.52-20.44,28.52-20.44l-2.85,20.44"/>
+  <path class="cls-1" d="m153.67,97.75c-11.41-9.98-24.72-10.93-33.75,2.85,9.98-9.98,22.75,8.61,12.36,16.16-20.92,15.21-42.31-24.24-59.42,0,14.26-14.74,19.96,10.84,14.26,16.16-14.26,13.31-25.67-2.38-43.73-7.61"/>
+  <path class="cls-1" d="m150.34,126.27c-14.26,28.05-27.1,3.32-43.73,11.88-16.64,8.56-12.83,33.28-40.88,21.39"/>
+  <circle stroke="currentColor" class="cls-1" cx="51.96" cy="22.04" r="17.59"/>
+</svg>
