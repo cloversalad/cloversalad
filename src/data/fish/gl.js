@@ -1161,7 +1161,7 @@ export const glFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [0,1] },
+            { shadow: [] },
             { rods: [2,3,5] },
             { moment: [0] }
         ],
