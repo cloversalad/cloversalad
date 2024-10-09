@@ -254,7 +254,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 
-    fishes.forEach(fish => {    
+    fishes.forEach(fish => {  
         createList(fish, window.lang);
     })
 
@@ -344,6 +344,8 @@ document.addEventListener('DOMContentLoaded', () => {
         
         document.getElementById("fishName").innerHTML = fish.name[window.lang] ? fish.name[window.lang] : fish.name.en;
         document.getElementById("fishType").innerHTML = fish.type;
+        console.log("IN TAMER", fish.map);
+        
         document.getElementById("map").setAttribute("src", `./images/map-${fish.map}.jpg`);
         document.getElementById("mapName").innerHTML = fish.map;
         document.getElementById("mapName").setAttribute("class", `map-${fish.map}`)
