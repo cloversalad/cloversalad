@@ -1,8 +1,8 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const FileLoader = require('file-loader');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
+const ImageMinimizerPlugin = require('image-minimizer-webpack-plugin');
 
 const isDevelopment = process.env.NODE_ENV !== 'production';
 
@@ -19,12 +19,12 @@ module.exports = {
       directory: path.resolve(__dirname, 'docs'),
     },
     hot: true,
-  },  
+  },
   module: {
     rules: [
       {
-        test: /\.(png|svg|jpg|jpeg|gif)$/,
-        use: ['file-loader']
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        type: 'asset/resource', // Utilisation du type natif pour les fichiers d'images
       },
       {
         test: /\.js$/,
@@ -36,7 +36,7 @@ module.exports = {
       {
         test: /\.sass$/,
         use: ['style-loader', 'css-loader', 'sass-loader'],
-      },      
+      },
       {
         test: /\.s?css$/,
         use: [
@@ -61,6 +61,19 @@ module.exports = {
           to: 'images',
         },
       ],
-    })
+    }),
+    // Configuration correcte du plugin ImageMinimizerPlugin
+    new ImageMinimizerPlugin({
+      minimizer: {
+        implementation: ImageMinimizerPlugin.imageminGenerate,
+        options: {
+          plugins: [
+            ['imagemin-pngquant', { quality: [0.6, 0.8] }],
+            ['imagemin-mozjpeg', { quality: 75 }],
+            ['imagemin-gifsicle', { optimizationLevel: 2 }]
+          ],
+        },
+      },
+    }),
   ],
 };
