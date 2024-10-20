@@ -98,16 +98,8 @@ export const alaskaFish = [
                 y: 55
             },
             {
-                x: 15,
-                y: 15
-            },
-            {
-                x: 30,
-                y: 85
-            },
-            {
-                x: 85,
-                y: 45
+                x: 70,
+                y: 62
             }
         ],
         positionNote: ""
@@ -210,16 +202,8 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 65,
-                y: 85
-            },
-            {
-                x: 80,
-                y: 45
-            },
-            {
-                x: 85,
-                y: 65
+                x: 54,
+                y: 88
             }
         ],
         positionNote: ""
@@ -264,8 +248,8 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 65,
-                y: 40
+                x: 72,
+                y: 53
             },
             {
                 x: 65,
@@ -294,7 +278,7 @@ export const alaskaFish = [
         attributes: [
             { shadow: [2,3] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] },
+            { moment: [0,1] },
             { speed: [1] }
         ],
         seasons: [
@@ -322,20 +306,8 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 50,
-                y: 70
-            },
-            {
-                x: 65,
-                y: 85
-            },
-            {
-                x: 80,
-                y: 45
-            },
-            {
-                x: 35,
-                y: 20
+                x: 85,
+                y: 62
             }
         ],
         positionNote: ""
@@ -380,21 +352,17 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 90,
-                y: 40
-            },
-            {
-                x: 65,
-                y: 85
-            },
-            {
                 x: 66,
                 y: 15
             },
             {
-                x: 15,
-                y: 50
-            }
+                x: 89,
+                y: 10
+            },
+            {
+                x: 48,
+                y: 66
+            },
         ],
         positionNote: ""
     },
@@ -437,20 +405,8 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 10,
-                y: 85
-            },
-            {
-                x: 10,
-                y: 35
-            },
-            {
-                x: 50,
-                y: 70
-            },
-            {
-                x: 15,
-                y: 50
+                x: 38,
+                y: 60
             }
         ],
         positionNote: ""
@@ -553,23 +509,11 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 64,
-                y: 40
-            },
-            {
-                x: 85,
-                y: 65
-            },
-            {
-                x: 70,
-                y: 85
-            },
-            {
-                x: 80,
-                y: 40
-            },
-            {
                 x: 50,
+                y: 23
+            },
+            {
+                x: 58,
                 y: 66
             }
         ],
@@ -966,20 +910,8 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 50,
-                y: 70
-            },
-            {
-                x: 85,
-                y: 15
-            },
-            {
-                x: 65,
-                y: 40
-            },
-            {
-                x: 40,
-                y: 20
+                x: 47,
+                y: 41
             }
         ],
         positionNote: ""
@@ -1187,7 +1119,7 @@ export const alaskaFish = [
             },
             {
                 x: 70,
-                y: 85
+                y: 53
             },
             {
                 x: 80,
