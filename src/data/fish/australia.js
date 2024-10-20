@@ -709,7 +709,7 @@ export const australiaFish = [
         },
         difficulty: 0,
         attributes: [
-            { shadow: [3,4] },
+            { shadow: [1,2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] },
             { speed: [0] }
