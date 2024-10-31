@@ -397,7 +397,7 @@ document.addEventListener('DOMContentLoaded', () => {
         })
 
 
-        if (currentFish.type == "monster") {
+        if (currentFish.type == "monster" && currentFish.rotation) {
 
             let revealed = false;
 
