@@ -486,7 +486,7 @@ export const thaiFish = [
                 ]
             },
             {
-                "moment": [1]
+                "moment": [0]
             },
             {
                 "speed": [
