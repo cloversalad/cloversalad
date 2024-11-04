@@ -195,7 +195,7 @@ export const thaiFish = [
             "fr": "lépisostée alligator",
             "pt": "peixe jacaré"
         },
-        "difficulty": 0,
+        "difficulty": 1,
         "attributes": [
             {
                 "shadow": [
