@@ -317,6 +317,10 @@ export const thaiFish = [
             {
                 x:85,
                 y:31
+            },
+            {
+                x:68,
+                y:61
             }
         ],
         "positionNote": ""
@@ -982,8 +986,12 @@ export const thaiFish = [
                 y:28
             },
             {
-                x:51,
-                y:88
+                x:60,
+                y:36
+            },
+            {
+                x:25,
+                y:48
             }
         ],
         "positionNote": ""
@@ -1051,8 +1059,8 @@ export const thaiFish = [
                 y:23
             },
             {
-                x:25,
-                y:89
+                x:88,
+                y:65
             }
         ],
         "positionNote": ""
@@ -1322,7 +1330,7 @@ export const thaiFish = [
         "attributes": [
             {
                 "shadow": [
-                    3
+                    2
                 ]
             },
             {
@@ -1337,7 +1345,7 @@ export const thaiFish = [
             },
             {
                 "speed": [
-                    1
+                    0
                 ]
             }
         ],
@@ -1431,6 +1439,14 @@ export const thaiFish = [
             {
                 x:88,
                 y:58
+            },
+            {
+                x:88,
+                y:84
+            },
+            {
+                x:83,
+                y:28
             }
         ],
         "positionNote": ""

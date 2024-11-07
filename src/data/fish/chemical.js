@@ -228,7 +228,7 @@ export const chemicalFish = [
         positions: [
             {
                 x: 90,
-                y: 77
+                y: 31
             }
         ],
         positionNote: ""

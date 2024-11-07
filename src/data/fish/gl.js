@@ -1020,10 +1020,10 @@ export const glFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [2,3] },
+            { shadow: [2] },
             { rods: [1,2,3,5] },
             { moment: [0,1] },
-            { speed: [1] }
+            { speed: [1,2] }
         ],
         seasons: [
             true,
