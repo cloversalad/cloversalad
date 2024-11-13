@@ -956,12 +956,8 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 90,
-                y: 25
-            },
-            {
-                x: 30,
-                y: 55
+                x: 38,
+                y: 61
             }
         ],
         positionNote: ""
@@ -1012,14 +1008,6 @@ export const alaskaFish = [
             {
                 x: 70,
                 y: 85
-            },
-            {
-                x: 15,
-                y: 50
-            },
-            {
-                x: 75,
-                y: 15
             },
             {
                 x: 65,
