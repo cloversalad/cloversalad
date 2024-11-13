@@ -1222,7 +1222,7 @@ export const thaiFish = [
                 ]
             },
             {
-                "moment": [1]
+                "moment": [0,1]
             },
             {
                 "speed": [
@@ -1695,7 +1695,13 @@ export const thaiFish = [
                 y: 55
             },
             {
-                spot: "Spot\u00A03\u000AScorpions\u00A0T_T",
+                spot: "Spot\u00A03\u000ANorth\u00A0temple",
+                position: "left",
+                x: 66,
+                y: 63
+            },
+            {
+                spot: "Spot\u00A04\u000AScorpions\u00A0T_T",
                 position: "top",
                 x: 63,
                 y: 81
