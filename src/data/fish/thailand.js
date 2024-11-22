@@ -587,8 +587,8 @@ export const thaiFish = [
         "map": "thailand",
         "positions": [
             {
-                x:86,
-                y:57
+                x:84,
+                y:20
             }
         ],
         "positionNote": ""

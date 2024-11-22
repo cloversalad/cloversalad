@@ -98,8 +98,12 @@ export const alaskaFish = [
                 y: 55
             },
             {
-                x: 70,
-                y: 62
+                x: 82,
+                y: 78
+            },
+            {
+                x: 72,
+                y: 61
             }
         ],
         positionNote: ""
@@ -144,21 +148,9 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 65,
-                y: 40
+                x: 28,
+                y: 33
             },
-            {
-                x: 45,
-                y: 85
-            },
-            {
-                x: 80,
-                y: 45
-            },
-            {
-                x: 35,
-                y: 20
-            }
         ],
         positionNote: ""
     },
@@ -248,21 +240,17 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
+                x: 74,
+                y: 74
+            },
+            {
+                x: 72,
+                y: 88
+            },
+            {
                 x: 72,
                 y: 53
             },
-            {
-                x: 65,
-                y: 85
-            },
-            {
-                x: 80,
-                y: 45
-            },
-            {
-                x: 35,
-                y: 20
-            }
         ],
         positionNote: ""
     },
@@ -308,6 +296,10 @@ export const alaskaFish = [
             {
                 x: 85,
                 y: 62
+            },
+            {
+                x: 86,
+                y: 27
             }
         ],
         positionNote: ""
@@ -353,15 +345,15 @@ export const alaskaFish = [
         positions: [
             {
                 x: 66,
-                y: 15
+                y: 9
             },
             {
                 x: 89,
                 y: 10
             },
             {
-                x: 48,
-                y: 66
+                x: 52,
+                y: 71
             },
         ],
         positionNote: ""
@@ -559,21 +551,13 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 64,
-                y: 40
+                x: 54,
+                y: 88
             },
             {
-                x: 85,
-                y: 45
+                x: 84,
+                y: 39
             },
-            {
-                x: 30,
-                y: 55
-            },
-            {
-                x: 40,
-                y: 15
-            }
         ],
         positionNote: ""
     },
@@ -617,21 +601,13 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 50,
-                y: 70
+                x: 66,
+                y: 39
             },
             {
-                x: 85,
-                y: 15
+                x: 45,
+                y: 79
             },
-            {
-                x: 30,
-                y: 55
-            },
-            {
-                x: 15,
-                y: 50
-            }
         ],
         positionNote: ""
     },
@@ -732,22 +708,6 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 85,
-                y: 65
-            },
-            {
-                x: 80,
-                y: 45
-            },
-            {
-                x: 30,
-                y: 85
-            },
-            {
-                x: 15,
-                y: 15
-            },
-            {
                 x: 81,
                 y: 15
             }
@@ -794,21 +754,9 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 87,
-                y: 85
-            },
-            {
                 x: 80,
                 y: 65
             },
-            {
-                x: 50,
-                y: 70
-            },
-            {
-                x: 15,
-                y: 15
-            }
         ],
         positionNote: ""
     },
@@ -1102,17 +1050,9 @@ export const alaskaFish = [
         map: "alaska",
         positions: [
             {
-                x: 85,
-                y: 65
+                x: 54,
+                y: 88
             },
-            {
-                x: 70,
-                y: 53
-            },
-            {
-                x: 80,
-                y: 45
-            }
         ],
         positionNote: ""
     },

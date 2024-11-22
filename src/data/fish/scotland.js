@@ -39,12 +39,12 @@ export const scotlandFish = [
         map: "scotland",
         positions: [
             {
-                x: 15,
+                x: 55,
                 y: 88
             },
             {
-                x: 85,
-                y: 58
+                x: 69,
+                y: 33
             }
         ],
         positionNote: ""
@@ -378,6 +378,10 @@ export const scotlandFish = [
             {
                 x: 22,
                 y: 43
+            },
+            {
+                x: 72,
+                y: 84
             }
         ],
         positionNote: ""
@@ -422,12 +426,8 @@ export const scotlandFish = [
         map: "scotland",
         positions: [
             {
-                x: 97,
-                y: 25
-            },
-            {
-                x: 90,
-                y: 37
+                x: 48,
+                y: 60
             },
             {
                 x: 80,
@@ -1158,6 +1158,10 @@ export const scotlandFish = [
             {
                 x: 81,
                 y: 45
+            },
+            {
+                x: 61,
+                y: 15
             }
         ],
         positionNote: ""
@@ -1204,6 +1208,10 @@ export const scotlandFish = [
             {
                 x: 90,
                 y: 45
+            },
+            {
+                x: 10,
+                y: 20
             }
         ],
         positionNote: ""

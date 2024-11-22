@@ -43,8 +43,8 @@ export const crFish = [
                 y: 60
             },
             {
-                x: 65,
-                y: 25
+                x: 57,
+                y: 10
             },
             {
                 x: 82,
@@ -467,25 +467,9 @@ export const crFish = [
         map: "costa-rica",
         positions: [
             {
-                x: 50,
-                y: 60
-            },
-            {
-                x: 15,
-                y: 15
-            },
-            {
-                x: 85,
-                y: 50
-            },
-            {
                 x: 65,
                 y: 23
             },
-            {
-                x: 27,
-                y: 60
-            }
         ],
         positionNote: ""
     },
@@ -649,17 +633,9 @@ export const crFish = [
         map: "costa-rica",
         positions: [
             {
-                x: 15,
-                y: 15
+                x: 58,
+                y: 79
             },
-            {
-                x: 25,
-                y: 55
-            },
-            {
-                x: 70,
-                y: 90
-            }
         ],
         positionNote: ""
     },
@@ -922,8 +898,8 @@ export const crFish = [
                 y: 25
             },
             {
-                x: 45,
-                y: 85
+                x: 74,
+                y: 43
             }
         ],
         positionNote: ""
