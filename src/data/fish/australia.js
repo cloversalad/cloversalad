@@ -1651,6 +1651,7 @@ export const australiaFish = [
         ],
         difficulty: 2,
         rotation: [3,4,1,1,2,4,3,4,2,4,3,2,3,1,1,2,2,1,1,3,1,1,4,1,3,1],
+        startDate: "2024-05-01",
         positionNote: ""
     }
 ]

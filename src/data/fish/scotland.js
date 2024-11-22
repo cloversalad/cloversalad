@@ -1396,6 +1396,7 @@ export const scotlandFish = [
             }
         ],
         rotation: [1,5,2,2,5,6,2,5,5,4,1,5,2,3,2,5,5,2,2,2,2,2,6,1,3,3],
+        startDate: "2024-05-01",
         positionNote: ""
     }
 ]
