@@ -1683,6 +1683,12 @@ export const thaiFish = [
         "map": "thailand",
         "positions": [
             {
+                spot: "Spot\u00A04\u000AScorpions\u00A0T_T",
+                position: "top",
+                x: 63,
+                y: 81
+            },
+            {
                 spot: "Spot\u00A01\u000ASouth",
                 position: "right",
                 x: 90,
@@ -1699,12 +1705,6 @@ export const thaiFish = [
                 position: "left",
                 x: 66,
                 y: 63
-            },
-            {
-                spot: "Spot\u00A04\u000AScorpions\u00A0T_T",
-                position: "top",
-                x: 63,
-                y: 81
             },
         ],
         /*"rotation": [1,1,4,2,3,2,4,2,3,4,3,1,1,4,4,1,1,3,1,1,2,1,3,1,3,2,1,1,4,2],*/
